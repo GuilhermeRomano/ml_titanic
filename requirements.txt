@@ -1,5 +1,4 @@
-wheel
-kaggle
 mlflow
 pandas
+seaborn
 black[jupyter]
